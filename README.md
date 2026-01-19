@@ -20,3 +20,5 @@ Además, String se implementa por medio de un array final de tipo char (private 
 ## Parte II: Resolver
 
 ### Preview
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0aa98d76-0394-4641-a12c-c179087fb7fc" />
